@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+    <item
+        android:id="@+id/menu_message"
+        android:orderInCategory="100"
+        android:title="@string/menu_message"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/menu_class"
+        android:orderInCategory="100"
+        android:title="@string/menu_change_class"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/menu_teacher"
+        android:orderInCategory="100"
+        android:title="@string/menu_teacher"
+        android:icon="@android:drawable/ic_menu_call"
+        android:showAsAction="never"
+        tools:ignore="AppCompatResource" />
+</menu>

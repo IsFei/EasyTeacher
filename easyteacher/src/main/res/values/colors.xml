@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03a9f4</color>
+    <color name="colorPrimaryDark">#0277bd</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_dark">#4fc3f7</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bg_gray">#ededed</color>
+    <color name="bg_white">#ffffff</color>
+    <color name="bg_green">#1db65e</color>
+    <color name="bg_orange">#f8b238</color>
+    <color name="bg_orange_alf">#70f8b238</color>
+    <color name="bg_red">#f16350</color>
+    <color name="bg_blue">#327eff</color>
+    <color name="bg_purple">#c561f4</color>
+    <color name="bg_purple_dark">#6b55c9</color>
+    <color name="bg_div">#e0e0e0</color>
+    <color name="tv_black">#323232</color>
+    <color name="tv_gray">#a6a6a6</color>
+    <color name="tv_white">#ffffff</color>
+    <color name="tv_white_light">#ffffff</color>
+    <color name="tv_white_shallow">#99ffffff</color>
+    <color name="tv_green">#1db65e</color>
+    <color name="tv_green_alf">#601db65e</color>
+    <color name="tv_red">#ff4b37</color>
+    <color name="bg_side_div_wide">#f0f0f0</color>
+</resources>
